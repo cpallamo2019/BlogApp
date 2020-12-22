@@ -1,4 +1,4 @@
 from Minecraft_Blog import app
 
 if __name__ == '__main__':
-    app.rum(debug=True)
+    app.run(debug=True)
